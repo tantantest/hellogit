@@ -15,7 +15,7 @@ import logic.Person;
 public class SampleController{
 
 	/**
-	* 入力ああああ
+	* 入力あいうえお
 	*/
 	@RequestMapping(value = "/input", method = GET)
 	public String inputForm(Model model){
